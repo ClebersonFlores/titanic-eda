@@ -68,7 +68,7 @@ Ferramentas usadas: **Python | Pandas | Matplotlib | Seaborn**
 ## Conclusão
 
 O projeto evidencia que **sexo e classe social** foram os fatores mais determinantes para a sobrevivência no Titanic.  
-As visualizações criadas permitem **comunicar insights de forma clara e visual**, tornando o projeto atrativo para recrutadores de **Data Science e Análise de Dados**.  
+As visualizações criadas permitem **comunicar insights de forma clara e visual**, tornando o projeto atrativo para estudantes de **Data Science e Análise de Dados**.  
 
 Este projeto demonstra habilidade em **limpeza de dados, análise exploratória e visualização de informações**, essenciais para qualquer posição de análise de dados ou ciência de dados.
 
